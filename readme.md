@@ -1,13 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
-## Golin Back-end Developer Exercise
+##Back-end Developer Exercise
 
 * Used Laravel framework as it saves time due to the pre-built classes
 * The code in this repository is for "PingMe!" a basic social network
@@ -17,6 +10,5 @@
 * Pagination has been used so users and viewers can only see 20 messages per page
 * Users can also see conversations they had with other users
 
-* Apolgies the whole task took more than allocated time and have used several sources online for some details.
+* Apologies the whole task took more than allocated time and have used several sources online for some details.
 * There are few errors that I could have corrected but due to limitation of time, couldnt carry out
-
