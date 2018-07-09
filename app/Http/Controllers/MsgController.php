@@ -53,8 +53,7 @@ $users = User::where('id', '!=', Auth::id())->get()->pluck('name', 'id');
 
     }
      $conv = Message::find($id);
-         return view('admin.posts.edit')->with('post',$post)->with('categories', Category::all())
-                                                              ->W);
+         
         $from_user_id =Message::all()
         ->select('message', 'user_id as from_user_id', 'to_user_id as from_user_id')
         ->where('user_id', Auth::user()->id)
